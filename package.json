@@ -1,0 +1,25 @@
+{
+  "name": "release-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryCjr/release-script.git"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "inquirer": "^6.5.1",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.124.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryCjr/release-script/issues"
+  },
+  "homepage": "https://github.com/JerryCjr/release-script#readme"
+}
